@@ -4,7 +4,7 @@
 
 *Data Science Intern at [URSA](https://github.com/EL-BID/URSA)*    <img src="images/bid_logo.jpeg" alt="BID" width="25" height="25">
 
- <a href="https://manuelsolan-o.github.io/cv.html"><img src="images/cv.svg" alt="Curriculum Vitae"></a> [![Linkedin Badge](https://img.shields.io/badge/-manuel_solano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/) [![Twitter Badge](https://img.shields.io/badge/-@manuelsolan_o-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/manuel_solan_o) [![Instagram Badge](https://img.shields.io/badge/-@manuelsolan.o-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/manuel_solan.o) [![Gmail Badge](https://img.shields.io/badge/-manuelhernandezs2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manuelhernandezs2003@gmail.com)](mailto:manuelhernandezs2003@gmail.com)
+ <a href="https://manuelsolan-o.github.io/cv.html"><img src="images/cv.svg" alt="Curriculum Vitae"></a> [![Linkedin Badge](https://img.shields.io/badge/-manuel_solano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/jlim/) [![Twitter Badge](https://img.shields.io/badge/-@manuelsolan_o-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/manuelsolan_o) [![Instagram Badge](https://img.shields.io/badge/-@manuelsolan.o-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/manuel_solan.o) [![Gmail Badge](https://img.shields.io/badge/-manuelhernandezs2003@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manuelhernandezs2003@gmail.com)](mailto:manuelhernandezs2003@gmail.com)
 
 ## About me
 
@@ -27,7 +27,7 @@ I've been working on analyzing the urban growth in Metropolitan Areas of Mexico.
 </div>
 
 *Urban growth in Metropolitan Zone of Hermosillo 1975 - 2020*
-
+## 
 __*“Educate yourselves because we will need all your intelligence. Be excited because we will need all your enthusiasm. Organise because we will need all your strength.”*__ 
 *- Antonio Gramsci*
 
