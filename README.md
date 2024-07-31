@@ -8,15 +8,9 @@
 
 ## About me
 
-I'm from Mexico 🇲🇽, a country where nearly half of the population lives in poverty, where crime and violence constitute a daily reality for too many, where environmental pollution threatens our health, and where corruption has eroded trust in our institutions. 
+I believe that creativity must be the way we earn our place in the world. Thus, I aim to use my creativity to contribute to the benefit of society, particularly in the development of better cities. As digital systems multiply across the urban landscape, they produce immense streams of data that can help inform how we manage and plan our cities. Through data science, we can now measure issues that have been central to urban planning since its conception, such as equity, environment, value creation, service provision, public opinion, and the effects of physical form.
 
-Even though things may seem discouraging, I like to believe that we have what it takes to make a difference. We have the resources, the tools, and the dialogue. Yet, we must collaborate, combine our talents to create a better world. In the words of Salvador Allende, "To put an end to this brutal reality, committed professionals dedicated to social change are required." [^1].
-
-Unfortunately, not everyone has the same opportunities to harness their talents. I understand that having access to school and access to knowledge - and therefore power - is a privilege. And I am one of those who believe that privileges only make sense and become virtues when they are placed in the service of others, especially those in need. That is why, as a Data Scientist, my ultimate goal is to __*use data as a tool for empowerment rather than oppression*__ [^2].
-
-I work every day to become the professional required to address the most urgent challenges of our times, and I am eager to connect with people who share the same passion as I do. Even if you are not related to data or technology, we can still collaborate then, especially, because only through interdisciplinary collaboration we may address such complex and multifactorial problems.
-
-Feel free to contact me and we can start a project :)
+Ultimately, my goal is to use data to enhance learning, provoke dialogue and inspire policy change.
 
 ## My work
 
